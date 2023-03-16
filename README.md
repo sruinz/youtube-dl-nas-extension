@@ -1,5 +1,5 @@
-# Youtube-Dl-to-NAS-Chrome-Extension
-Youtube-Dl to NAS 의 크롬 확장 프로그램입니다. 
+# Youtube-Dl-NAS-Extension
+youtube-dl-nas 의 크롬 확장 프로그램입니다. 
 
 
 ![ss](https://user-images.githubusercontent.com/63243848/225577815-2f5bb91b-0523-4771-9735-118651c0b7e2.png)

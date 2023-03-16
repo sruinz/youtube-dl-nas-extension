@@ -17,7 +17,7 @@ Youtube-Dl to NAS 의 크롬 확장 프로그램입니다.
 
 1080p 보다 큰 해상도의 영상은 av1 코덱으로 저장 되기 때문에 나스에서 재생 불가능 할 수 있습니다.
 
-이 확장 프로그램을 사용하기 위해서는 youtube-dl 서비스를 나스에 설치 해야 합니다
+이 확장 프로그램을 사용하기 위해서는 https://github.com/hyeonsangjeon/youtube-dl-nas 서비스를 나스에 설치 해야 합니다
 
 설정에는 youtube-dl에서 설정한 아이디, 패스워드와 youtube-dl 접속주소 + /rest 를 rest api 부분에 입력해 준 후 save 버튼을 눌러 저장합니다.
 

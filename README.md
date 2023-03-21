@@ -1,6 +1,8 @@
 # Youtube-Dl-NAS-Extension
 youtube-dl-nas 의 크롬 확장 프로그램입니다. 
 
+엣지스토어 다운로드
+https://microsoftedge.microsoft.com/addons/detail/youtubedl-to-nas/idefjkbcbhgokgenjingeleopmficace?hl=ko
 
 ![ss](https://user-images.githubusercontent.com/63243848/225577815-2f5bb91b-0523-4771-9735-118651c0b7e2.png)
 

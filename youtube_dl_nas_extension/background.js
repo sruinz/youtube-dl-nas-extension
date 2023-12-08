@@ -1,7 +1,7 @@
 chrome.contextMenus.create({
   id: 'my-extension',
   title: 'Download with youtube-dl',
-  contexts: ['link', 'selection'],
+  contexts: ['link', 'selection', 'video'],  // video에서도 컨텍스트 메뉴가 나타남
 });
 
 const resolutions = [
@@ -14,7 +14,7 @@ resolutions.forEach(function(resolution) {
     id: resolution,
     title: resolution,
     type: 'radio',
-    contexts: ['link', 'selection'],
+    contexts: ['link', 'selection', 'video'],  // video에서도 해당 화질 선택이 가능하게 함
   });
 });
 
@@ -26,7 +26,11 @@ chrome.contextMenus.onClicked.addListener(function(info, tab) {
         url = info.linkUrl;
       } else if (info.selectionText && isUrl(info.selectionText)) {
         url = info.selectionText;
+      } else if (info.srcUrl && info.mediaType === 'video') {
+        // 동영상에서 우클릭한 경우 video의 srcUrl을 가져옴
+        url = info.srcUrl;
       }
+
       if (url) {
         const request = new Request(options.restUrl, {
           method: 'POST',

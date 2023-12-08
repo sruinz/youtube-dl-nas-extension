@@ -8,6 +8,9 @@ https://microsoftedge.microsoft.com/addons/detail/youtubedl-to-nas/idefjkbcbhgok
 
 ![set](https://user-images.githubusercontent.com/63243848/225577852-f46c911b-bc3e-4a8e-ac39-689b83fc7cd7.png)
 
+1.0.1 업데이트 내용
+유튜브 동영상이 아닌 웹 브라우저 동영상에도 사용 가능
+
 
 시놀로지 나스 도커에서 실행 가능한 youtube-dl-nas 의 확장 프로그램 입니다.
 (https://github.com/hyeonsangjeon/youtube-dl-nas)

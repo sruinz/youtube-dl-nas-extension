@@ -1,6 +1,6 @@
 chrome.contextMenus.create({
   id: 'my-extension',
-  title: 'Download with youtube-dl',
+  title: 'Download with VDtN',
   contexts: ['link', 'selection', 'video'],  // video에서도 컨텍스트 메뉴가 나타남
 });
 

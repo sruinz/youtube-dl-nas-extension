@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Youtube-Dl to NAS",
-  "version": "1.0.1",
+  "name": "Video Download to NAS",
+  "version": "1.0.11",
   "icons": {
     "16": "icon-16.png",
     "48": "icon-48.png",

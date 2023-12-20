@@ -4,9 +4,6 @@ youtube-dl-nas 의 크롬 엣지 확장 프로그램입니다.
 엣지스토어 다운로드
 https://microsoftedge.microsoft.com/addons/detail/youtubedl-to-nas/idefjkbcbhgokgenjingeleopmficace?hl=ko
 
-![ss](https://user-images.githubusercontent.com/63243848/225577815-2f5bb91b-0523-4771-9735-118651c0b7e2.png)
-
-![set](https://user-images.githubusercontent.com/63243848/225577852-f46c911b-bc3e-4a8e-ac39-689b83fc7cd7.png)
 
 1.0.11 업데이트 내용 : 
 이름과 아이콘 변경
@@ -14,6 +11,8 @@ https://microsoftedge.microsoft.com/addons/detail/youtubedl-to-nas/idefjkbcbhgok
 1.0.1 업데이트 내용 : 
 유튜브 동영상이 아닌 웹 브라우저 동영상에도 사용 가능
 
+![설명1](https://github.com/sruinz/youtube-dl-nas-extension/assets/63243848/1f459f0e-9a0c-4974-a59a-9a35bab3bed7)
+![설명2](https://github.com/sruinz/youtube-dl-nas-extension/assets/63243848/2fd237a2-5fcf-452e-8e4c-a813a3a7fc0d)
 
 시놀로지 나스 도커에서 실행 가능한 youtube-dl-nas 의 확장 프로그램 입니다.
 (https://github.com/hyeonsangjeon/youtube-dl-nas)

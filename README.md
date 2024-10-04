@@ -7,7 +7,7 @@ https://microsoftedge.microsoft.com/addons/detail/youtubedl-to-nas/idefjkbcbhgok
 크롬스토어 다운로드
 https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekpjffcfffpfbdaalj?hl=ko
 
-1.0.2 업데이트 내용 :
+1.1.0 업데이트 내용 :
 옵션UI 수정 및 브라우저 확장 프로그램 아이콘 클릭시 다운로드 가능 목록 표시 기능 추가
 
 1.0.11 업데이트 내용 : 

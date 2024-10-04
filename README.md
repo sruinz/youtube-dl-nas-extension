@@ -17,7 +17,7 @@ https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekp
 유튜브 동영상이 아닌 웹 브라우저 동영상에도 사용 가능
 
 ![설명1](https://github.com/sruinz/youtube-dl-nas-extension/assets/63243848/1f459f0e-9a0c-4974-a59a-9a35bab3bed7)
-![설명2](https://github.com/sruinz/youtube-dl-nas-extension/assets/63243848/2fd237a2-5fcf-452e-8e4c-a813a3a7fc0d)
+![설명2](https://github.com/user-attachments/assets/430ff410-ec98-42a7-af63-60687295467e)
 
 시놀로지 나스 도커에서 실행 가능한 youtube-dl-nas 의 확장 프로그램 입니다.
 (https://github.com/hyeonsangjeon/youtube-dl-nas)

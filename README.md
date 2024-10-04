@@ -18,6 +18,7 @@ https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekp
 
 ![설명1](https://github.com/sruinz/youtube-dl-nas-extension/assets/63243848/1f459f0e-9a0c-4974-a59a-9a35bab3bed7)
 ![설명2](https://github.com/user-attachments/assets/430ff410-ec98-42a7-af63-60687295467e)
+![설명3](https://github.com/user-attachments/assets/0f5ad8e9-e324-401f-9eff-33b4414870cc)
 
 시놀로지 나스 도커에서 실행 가능한 youtube-dl-nas 의 확장 프로그램 입니다.
 (https://github.com/hyeonsangjeon/youtube-dl-nas)
@@ -28,6 +29,14 @@ https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekp
 해상도를 선택하면 youtube-dl-nas 설치 시 지정한 폴더로 mp4 파일이 저장 됩니다.
 
 1080p 보다 큰 해상도의 영상은 av1 코덱으로 저장 되기 때문에 나스에서 재생 불가능 할 수 있습니다.
+
+
+그리고 영상을 우클릭 후 컨텍스트 메뉴에서 옵션을 선택한 후 저장하는 기존 방식 외에 
+
+브라우저의 확장 프로그램 아이콘을 클릭 했을 때 현재 페이지에서 나스로 다운로드 가능한 영상이 있을 경우
+
+오버레이에 목록이 표시되고 클릭을 했을 때 저장이 되는 기능을 추가 했습니다
+
 
 이 확장 프로그램을 사용하기 위해서는 https://github.com/hyeonsangjeon/youtube-dl-nas 서비스를 나스에 설치 해야 합니다
 

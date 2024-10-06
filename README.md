@@ -39,6 +39,7 @@ https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekp
 
 
 이 확장 프로그램을 사용하기 위해서는 https://github.com/hyeonsangjeon/youtube-dl-nas 서비스를 나스에 설치 해야 합니다
+가이드 : https://svrforum.com/nas/1764971
 
 설정에는 youtube-dl-nas 에서 설정한 아이디, 패스워드와 youtube-dl-nas 접속주소 + /rest 를 rest api 부분에 입력해 준 후 save 버튼을 눌러 저장합니다.
 

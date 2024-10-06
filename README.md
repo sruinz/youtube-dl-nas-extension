@@ -45,6 +45,7 @@ https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekp
 설정에는 youtube-dl-nas 에서 설정한 아이디, 패스워드와 youtube-dl-nas 접속주소 + /rest 를 rest api 부분에 입력해 준 후 save 버튼을 눌러 저장합니다.
 
 영상 링크 화면에서 우클릭 후 컨텍스트 메뉴에서 해상도를 선택 또는 오버레이에서 영상을 선택
+
 그 후 나스의 폴더에 정상적으로 다운로드가 됐는지 확인 해보시고 
 
 안된다면 아이디와 패스워드 혹은 접속 주소가 정상인지 확인 해보시기 바랍니다.

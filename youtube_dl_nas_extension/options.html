@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
   <head>
+    <meta charset="UTF-8"> <!-- 문자 인코딩 설정 -->
     <title>Options</title>
     <link rel="stylesheet" href="options.css">
   </head>
@@ -9,17 +10,20 @@
     <form id="options">
       <div class="form-group">
         <label for="restUrl">REST API URL</label>
-        <input type="text" id="restUrl" name="restUrl" class="input-field">
+        <input type="text" id="restUrl" name="restUrl" class="input-field" placeholder="http://ip:port or https://ddns.com">
       </div>
       <div class="form-group">
         <label for="id">ID</label>
-        <input type="text" id="id" name="id" class="input-field">
+        <input type="text" id="id" name="id" class="input-field" placeholder="ID">
       </div>
       <div class="form-group">
         <label for="pw">Password</label>
-        <input type="password" id="pw" name="pw" class="input-field">
+        <div class="password-container">
+          <input type="password" id="pw" name="pw" class="input-field" placeholder="Password">
+          <span class="toggle-password" id="togglePassword">👁️</span> <!-- 눈 아이콘 -->
+        </div>
       </div>
-      <button type="submit" class="submit-button">Save</button>
+      <button type="submit" class="submit-button">저장</button>
     </form>
     <script src="options.js"></script>
   </body>

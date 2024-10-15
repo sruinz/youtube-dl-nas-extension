@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "Video Download to NAS",
+  "version": "1.1.1",
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'",
+    "sandbox": "sandbox allow-scripts; default-src 'none'; script-src 'self'; object-src 'self'",
+    "web_accessible_resources": "script-src 'self'; object-src 'self'"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  }
+}

@@ -7,6 +7,9 @@ https://microsoftedge.microsoft.com/addons/detail/youtubedl-to-nas/idefjkbcbhgok
 크롬스토어 다운로드
 https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekpjffcfffpfbdaalj?hl=ko
 
+1.1.1 업데이트 내용:
+옵션 입력 편의성 수정
+
 1.1.0 업데이트 내용 :
 옵션UI 수정 및 브라우저 확장 프로그램 아이콘 클릭시 다운로드 가능 목록 표시 기능 추가
 
@@ -19,6 +22,7 @@ https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekp
 ![설명1](https://github.com/sruinz/youtube-dl-nas-extension/assets/63243848/1f459f0e-9a0c-4974-a59a-9a35bab3bed7)
 ![설명2](https://github.com/user-attachments/assets/430ff410-ec98-42a7-af63-60687295467e)
 ![설명3](https://github.com/user-attachments/assets/0f5ad8e9-e324-401f-9eff-33b4414870cc)
+![설명4](https://github.com/user-attachments/assets/fc8339b5-c386-43c7-bb44-eb67d12419df)
 
 시놀로지 나스 도커에서 실행 가능한 youtube-dl-nas 의 확장 프로그램 입니다.
 (https://github.com/hyeonsangjeon/youtube-dl-nas)
@@ -42,7 +46,7 @@ https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekp
 
 가이드 : https://svrforum.com/nas/1764971
 
-설정에는 youtube-dl-nas 에서 설정한 아이디, 패스워드와 youtube-dl-nas 접속주소 + /rest 를 rest api 부분에 입력해 준 후 save 버튼을 눌러 저장합니다.
+설정에는 youtube-dl-nas 에서 설정한 아이디, 패스워드와 youtube-dl-nas 접속주소를 rest api 부분에 입력해 준 후 저장 버튼을 눌러 저장합니다.
 
 영상 링크 화면에서 우클릭 후 컨텍스트 메뉴에서 해상도를 선택 또는 오버레이에서 영상을 선택
 

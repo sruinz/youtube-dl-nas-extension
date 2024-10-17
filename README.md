@@ -7,6 +7,9 @@ https://microsoftedge.microsoft.com/addons/detail/youtubedl-to-nas/idefjkbcbhgok
 크롬스토어 다운로드
 https://chromewebstore.google.com/detail/video-download-to-nas/fchehlladkkanoekpjffcfffpfbdaalj?hl=ko
 
+1.1.11 업데이트 내용:
+오버레이 상의 blob영상 다운로드 방식 수정
+
 1.1.1 업데이트 내용:
 옵션 입력 편의성 수정
 

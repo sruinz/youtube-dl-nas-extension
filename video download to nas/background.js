@@ -3,7 +3,7 @@ console.log("Service Worker started.");
 // VDtN 아이콘을 클릭하면 현재 페이지의 다운로드 가능한 비디오들을 찾는 메시지 전송
 chrome.action.onClicked.addListener((tab) => {
   console.log("VDtN icon clicked.");
-  
+
   // 탭이 유효한지 검사
   if (tab && tab.id) {
     chrome.tabs.sendMessage(tab.id, { action: 'findVideos' }, (response) => {
